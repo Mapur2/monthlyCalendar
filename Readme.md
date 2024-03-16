@@ -35,6 +35,6 @@ Contributions to the project are welcome. If you find any issues or have suggest
 - Thanks to the developers and contributors of Java for providing the tools and libraries necessary for development.
 
 ### Contact
-For any inquiries or support, please contact [your@email.com].
+For any inquiries or support, please contact [rupammodak1@gmail.com].
 
 Enjoy using our Monthly Calendar application! 📅
